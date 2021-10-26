@@ -1,0 +1,1 @@
+# indicator_optimization_for_trading
